@@ -5,6 +5,6 @@ class Dce < Formula
   version "1.0.0"
 
   def install
-    cp "dce" "/usr/local/bin/dce"
+    cp "dce", "/usr/local/bin/dce"
   end
 end
